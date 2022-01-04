@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Rhythm's GitHub Stats" src="https://github-readme-stats.rhythmbhandari.vercel.app/api?username=rhythmbhandari&show_icons=true&hide_border=true" />
+
+</details>
