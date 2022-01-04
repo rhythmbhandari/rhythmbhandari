@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 
 
-| <a href="https://github.com/rhythmbhandari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rhythmbhandari&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rhythm's github stats" /></a> | <a href="https://github.com/rhythmbhandari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmbhandari&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/rhythmbhandari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rhythmbhandari&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="Rhythm's github stats" /></a> | <a href="https://github.com/rhythmbhandari/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythmbhandari&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
