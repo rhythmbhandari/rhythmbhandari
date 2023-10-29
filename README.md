@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-![Rhythm' Github Stats](https://github-readme-stats.vercel.app/api?username=rhythmbhandari&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Rhythm' Github Stats](https://github-readme-stats.vercel.app/api?username=rhythmbhandari&count_private=true&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rhythmbhandari&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
