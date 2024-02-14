@@ -1,4 +1,4 @@
-### Hi there 👋
+### Getting the boot from a GitHub organization might make your commits camera-shy on the public profile, but rest assured, they're still grooving in the cozy corners of the repository's history.
 
 <!--
 **rhythmbhandari/rhythmbhandari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
